@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 375fa483089110349bbdff3658847591, type: 3}
+  m_Name: Level 40
+  m_EditorClassIdentifier: 
+  info: there should be a workshop at 1 and all multiples of 5. place in order 0=1
+    1=5 ect...
+  levelID: 40
+  text: 'Sorry about the last t..t..transmission.
+
+    you s..s..see when the n..n..nuclear
+    tanker w..w..went off
+
+    it..it..it killed my mum.
+
+    and thats why i''ve
+    b..b..been so mean to you
+
+    im sorry.
+
+    Just to let you know, the blue
+    EMP-emmiting crystals have been gave a name- elecirium.
+
+    every crystal you
+    break, the more damage ouccurs at the surface.
+
+    There''s only 1 way of getting
+    rid of the elecirim vein now:
+
+    You have to destroy the CACHE around 60m down.
+
+    thats
+    all of the information I have for now.'

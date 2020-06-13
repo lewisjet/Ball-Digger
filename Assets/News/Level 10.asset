@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 375fa483089110349bbdff3658847591, type: 3}
+  m_Name: Level 10
+  m_EditorClassIdentifier: 
+  info: there should be a workshop at 1 and all multiples of 5. place in order 0=1
+    1=5 ect...
+  levelID: 10
+  text: 'Why was there so many EMP Blockers ther...
+
+
+    #%%&<//?NULLPOWER:EXEPTION.THROW"~~@''''}{";;''?>:
+
+
+    WARNING
+    POWER RUNNING LOW: LIGHTING SYSTEMS DEACTIVATED TO PRESERVE POWER. ERROR REPORT
+    SENT TO HQ. NEW PMM WILL BE AVAILABLE AT WORKSHOP 15.'

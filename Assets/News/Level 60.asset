@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 375fa483089110349bbdff3658847591, type: 3}
+  m_Name: Level 60
+  m_EditorClassIdentifier: 
+  info: there should be a workshop at 1 and all multiples of 5. place in order 0=1
+    1=5 ect...
+  levelID: 60
+  text: 'Wow, i''m in awe, soilder! you just single-handedly took down a threat to
+    our planet!
+
+    We noticed how there was an alien guarding the core- strange.
+
+    We''ll
+    look into that after your FINAL MISSION, however:
+
+    you need to dump all of
+    your accumulated elecirium into the planet''s core- not to be mistaked with the
+    planetary tumor (the formal name for the EMP core) that you just destroyed!
+
+    continue
+    forth, soldier!
+
+
+    You Are Unstoppable.'

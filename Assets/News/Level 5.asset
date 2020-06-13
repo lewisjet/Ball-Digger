@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 375fa483089110349bbdff3658847591, type: 3}
+  m_Name: Level 5
+  m_EditorClassIdentifier: 
+  info: there should be a workshop at 1 and all multiples of 5. place in order 0=1
+    1=5 ect...
+  levelID: 5
+  text: 'What was that blue crystal, it must have been causing the electromagnetic
+    pulses! nonetheless, bad news, the quarry is fresh out of power and the EMPs
+    are still coming stronger than ever. You need to go deeper.
+
+    We have detected
+    veins of strong emerald in the nearby vicinity, as well as large deposits of
+    enriched urainium, capable to give your ball''s extra life.
+
+    Good luck out
+    there!'

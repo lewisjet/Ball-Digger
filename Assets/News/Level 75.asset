@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 375fa483089110349bbdff3658847591, type: 3}
+  m_Name: Level 75
+  m_EditorClassIdentifier: 
+  info: there should be a workshop at 1 and all multiples of 5. place in order 0=1
+    1=5 ect...
+  levelID: 75
+  text: 'Congratulations, soilder- you''ve made it to the final checkpoint of this
+    mission. All you need to do now is dump all of your Elecirium into the core of
+    the planet and ascend the perpetual lift shaft. After that, your mission will
+    be accomplished.
+
+
+    You are unstoppable now, soldier!'
